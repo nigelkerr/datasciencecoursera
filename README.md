@@ -38,7 +38,7 @@ The challenges presented by the dataset in light of the assignment:
 - activities are given just distinct numbers instead of descriptive, factor-like values
 - the dataset-supplied variable names do not fit the assingment requirements for various reasons, and have some duplicate names
 - only a relatively small number of the main variables are needed per observation
-- final summary to be grouped by activity and separately grouped by subject somehow
+- final summary to be grouped by activity and subject
 - a code-book to be written summarizing this all
 
 ## Script and Preparation
